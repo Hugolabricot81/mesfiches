@@ -8,6 +8,9 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "android": {
+      "package": "com.app.mesfiches"
+    },
     "ios": {
       "supportsTablet": true
     },
